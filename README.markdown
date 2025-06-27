@@ -7,7 +7,7 @@ This repository contains the implementation of two image processing techniques a
 2. **Region-Growing Technique**: Used for image segmentation starting from seed points.
 
 ## GitHub Repository
-- [Project Link](https://github.com/Jathusan19/ComputerVision2)
+- [Project Link](](https://github.com/Jathusan19/Computer_Vision2))
 
 ## Requirements
 - Python 3.x
